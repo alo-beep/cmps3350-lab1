@@ -1,5 +1,6 @@
 // CMPS 3350 - lab 1
 // Prints each command-line argument passed into the program, one per line
+// a new change
 #include <stdio.h>
 
 int main(int argc, char ** argv)
@@ -9,4 +10,3 @@ int main(int argc, char ** argv)
     }
     return 0;
 }
-
